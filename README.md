@@ -334,7 +334,7 @@ Isso inclui classes específicas para:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Arthur Schgg** como parte de uma avaliação prática de desenvolvimento Java com JDBC.
+Desenvolvido por **Arthur Miguel Schlichting** como parte de uma avaliação prática de desenvolvimento Java com JDBC, no CentroWEG.
 
 ---
 
